@@ -9,8 +9,10 @@ package latihan8pecahan;
  *
  * @author Muhammad Alvin Rizqi Ramadhan
  * @author NIM 10119913
+ * Kelas : IF10K
+ * Deskripsi Program : Program Class Pecahan
  */
-public class Latihan8Pecahan {
+public class PBO1010119913Latihan8Pecahan {
 
     /**
      * @param args the command line arguments
